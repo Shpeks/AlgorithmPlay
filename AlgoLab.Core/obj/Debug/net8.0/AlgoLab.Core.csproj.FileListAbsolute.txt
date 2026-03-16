@@ -1,0 +1,11 @@
+C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\bin\Debug\net8.0\AlgoLab.Core.deps.json
+C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\bin\Debug\net8.0\AlgoLab.Core.dll
+C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\bin\Debug\net8.0\AlgoLab.Core.pdb
+C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\obj\Debug\net8.0\AlgoLab.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\obj\Debug\net8.0\AlgoLab.Core.AssemblyInfoInputs.cache
+C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\obj\Debug\net8.0\AlgoLab.Core.AssemblyInfo.cs
+C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\obj\Debug\net8.0\AlgoLab.Core.csproj.CoreCompileInputs.cache
+C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\obj\Debug\net8.0\AlgoLab.Core.dll
+C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\obj\Debug\net8.0\refint\AlgoLab.Core.dll
+C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\obj\Debug\net8.0\AlgoLab.Core.pdb
+C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\obj\Debug\net8.0\ref\AlgoLab.Core.dll
