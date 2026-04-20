@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=274a5bcc_002D869b_002D4df4_002Db38c_002D1841982fc142/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;ProjectFile&gt;FF0F3A94-35E3-45ED-8C35-4ECD9DEFA4B5/f:AlgoResearchServiceTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;FF0F3A94-35E3-45ED-8C35-4ECD9DEFA4B5/f:BinarySearchAlgoTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;FF0F3A94-35E3-45ED-8C35-4ECD9DEFA4B5/f:BubbleSortAlgoTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;FF0F3A94-35E3-45ED-8C35-4ECD9DEFA4B5/f:DataGeneratorTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;FF0F3A94-35E3-45ED-8C35-4ECD9DEFA4B5/f:LinearSearchAlgoTests.cs&lt;/ProjectFile&gt;&#xD;
+    &lt;ProjectFile&gt;FF0F3A94-35E3-45ED-8C35-4ECD9DEFA4B5/f:QuickSortAlgoTests.cs&lt;/ProjectFile&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

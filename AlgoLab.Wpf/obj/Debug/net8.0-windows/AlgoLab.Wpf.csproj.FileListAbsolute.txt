@@ -21,3 +21,4 @@ C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Wpf\bin\Debug\net8.0-windows\AlgoL
 C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Wpf\bin\Debug\net8.0-windows\AlgoLab.Core.pdb
 C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Wpf\obj\Debug\net8.0-windows\AlgoLab.Wpf.csproj.AssemblyReference.cache
 C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Wpf\obj\Debug\net8.0-windows\AlgoLab..D85F8F7E.Up2Date
+C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Wpf\obj\Debug\net8.0-windows\AlgoLab.Wpf.sourcelink.json

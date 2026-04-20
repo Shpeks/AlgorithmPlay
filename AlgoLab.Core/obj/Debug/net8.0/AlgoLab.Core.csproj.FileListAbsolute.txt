@@ -9,3 +9,4 @@ C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\obj\Debug\net8.0\AlgoLab.Core
 C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\obj\Debug\net8.0\refint\AlgoLab.Core.dll
 C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\obj\Debug\net8.0\AlgoLab.Core.pdb
 C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\obj\Debug\net8.0\ref\AlgoLab.Core.dll
+C:\Users\Shpeks\RiderProjects\AlgoLab\AlgoLab.Core\obj\Debug\net8.0\AlgoLab.Core.sourcelink.json
